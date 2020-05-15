@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title" translatable="false">Rate this App?</string>
+    <string name="rate_dialog_message" translatable="false">If you are enjoying this App, please take a moment to rate</string>
+    <string name="rate_dialog_ok" translatable="false">Yes</string>
+    <string name="rate_dialog_cancel" translatable="false">No</string>
+    <string name="package_name" translatable="false"> </string>
+</resources>
